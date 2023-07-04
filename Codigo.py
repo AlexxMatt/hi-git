@@ -5,7 +5,7 @@ my_other_dict = {}
 print(type(my_dict))
 print(type(my_other_dict))
 
-my_other_dict = {"Nombre": "Alexis",
+my_other_dict = {"Nombre": "Alex",
                  "Apellido": "Alonso", "Edad": 21, 1: "Python"}
 
 my_dict = {
